@@ -1,13 +1,10 @@
 
-
-{{ social_icons }}
-
-## Who am I 
+## Who am I  
 
 Highly-motivated Data Scientist with a background in Bioinformatics. Organised and active, I have two big passions: Artificial Intelligence and Design.
 Looking forward to deliver high-quality Machine Learning solutions packed in an effective, consistent and usable format. 
 
-![](./static/images/leaves.jpg)
+<figure class="propic" ><img  src="http://placekitten.com/420/420" alt="Image alt text" style="border-radius=50%"></figure>
 
 ## What do I like
 
